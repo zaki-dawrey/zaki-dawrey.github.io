@@ -1,11 +1,11 @@
 {
-    "name": "test_website",
-    "short_name": "test_website",
+    "name": "Zaki_Dawrey",
+    "short_name": "Zaki_Dawrey",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Zaki Dawrey Portfolio Website",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
